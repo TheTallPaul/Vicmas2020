@@ -1,4 +1,5 @@
 [![Fundraiser video for Vicmas 2020](http://img.youtube.com/vi/TTpA8z9zwR8/0.jpg)](http://www.youtube.com/watch?v=TTpA8z9zwR8 "Vicmas 2020")
+
 _Click to watch our video_
 
 ## How we're doing 2020
