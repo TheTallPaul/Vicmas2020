@@ -18,7 +18,7 @@ Watch [our video](http://www.youtube.com/watch?v=TTpA8z9zwR8) to hear more about
 
 We'll be running our fundraiser for one week, from right now through the end of December 27th.
 
-Too late to donate to us or don't like our faces?
+Too late to donate to us or we don't support a payment platform you use?
 Feel free to [donate directly to City Team](https://cityteam.org/donate/) instead.
 
 ### Money Multiplier 💸
@@ -34,11 +34,12 @@ The remaining proceeds of your donation will be delivered directly to City Team.
 
 ![Mug mockup](https://raw.githubusercontent.com/TheTallPaul/vicmas/main/mug.png)
 
-_Mockup of the mug. Final mug may look different._
+_Mockup of the mug design. Final mug may look different._
 
 Mugs will be available **only** for porch pickup at The Vic in Southeast Portland.
 We will not be shipping any.
-Of course, if you don't want a mug or are unable to pick one up, you're free to donate anyways, just include "No mug" in your donation message.
+Of course, if you don't want a mug or are unable to pick one up, you're free to donate anyways.
+Just include "No mug" in your donation message.
 
 ### Donate
 
