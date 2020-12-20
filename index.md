@@ -9,16 +9,20 @@ However that's obviously not possible this year (but stay tuned for Vicmas in Ju
 
 ## What is City Team?
 
-Watch [our video](http://www.youtube.com/watch?v=TTpA8z9zwR8) to hear more about the good City Team is bringing to the world!
+[City Team](cityteam.org) is an organization devoted to sharing the love of Jesus through meeting the needs of the local community.
+City Team provides housing and restorative programs for people struggling with homelessness and addiction, provides food for families dealing food insecurity, and education to help people find living-wage jobs.
+
+Watch [our video](http://www.youtube.com/watch?v=TTpA8z9zwR8) to hear more about the good City Team is bringing to the world.
 
 ## The Fundraiser
 
 We'll be running our fundraiser for one week, from now through the end of December 27th.
-
+Too late to donate to us or don't like our faces?
+Feel free to [donate directly to City Team](https://cityteam.org/donate/) instead.
 
 ### Money Multiplier 💸
 
-The members of the Vic will be donating two dollars for every dollar in proceeds for the first $400 dollars.
+We will have every $1 in proceeds matched by $2, up to $400 dollars.
 Coupled with a generous backer offering to double all City Team donations this month up to $250k, that means that every $1 in proceeds will equate to $5 in donations for the first $400!
 
 ### Mugs ☕
@@ -31,7 +35,7 @@ Mug costs vary depending on order quantity, but will be aproximately $3.
 _Mockup of the mug. Final mug may look different._
 
 Mugs will be available _only_ for porch-side pickup at The Vic in SE Portland.
-Of course, if you don't want a mug, you're free to donate anyways.
+Of course, if you don't want a mug or are unable to pick on up, you're free to donate anyways, just include "No mug" in your donation message.
 
 ### Donate
 
