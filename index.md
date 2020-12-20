@@ -41,7 +41,7 @@ We will not be shipping any.
 Of course, if you don't want a mug or are unable to pick one up, you're free to donate anyways.
 Just include "No mug" in your donation message.
 
-### Donate
+### Donate 😃
 
 To avoid fees associated with GoFundMe, we'll be using Venmo and Paypal.
 
