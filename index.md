@@ -8,9 +8,11 @@ Traditionally, every December our house known as 'The Vic' hosts a large Christm
 However that's obviously not possible this year (but stay tuned for Vicmas in July), so we've found a new to turn this year's Vicmas into a positive by hosting a fundraiser.
 
 
-### What is City Team?
+## What is City Team?
 
 Watch [our video](http://www.youtube.com/watch?v=TTpA8z9zwR8) to hear more about the good City Team is bringing to the world!
+
+## The Fundraiser
 
 ### Money Multiplier
 
