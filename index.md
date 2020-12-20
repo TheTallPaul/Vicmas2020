@@ -5,7 +5,7 @@ _Click to watch our video_
 ## How we're doing Vicmas in 2020
 
 Traditionally, every December our house known as 'The Vic' hosts a large Christmas party known as 'Vicmas'.
-However that's obviously not possible this year (but stay tuned for Vicmas in July), so we've found a new way to celebrate this year's Vicmas by hosting a fundraiser for an organization one of our residents is an executive director of—City Team.
+However that's obviously not possible this year (but stay tuned for Vicmas in July), so we've found a new way to celebrate this year's Vicmas by hosting a fundraiser for an organization one of our residents is an executive director of: City Team.
 
 ## What is City Team?
 
