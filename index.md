@@ -24,6 +24,10 @@ Coupled with a generous backer offering to double all City Team donations this m
 For every $10 you donate, we will give you a custom diner-style mug!
 Mug costs vary depending on order quantity, but will be aproximately $3.
 
+[![Mug mockup](https://raw.githubusercontent.com/TheTallPaul/vicmas/main/mug.png)]
+
+_Mockup of the mug. Final mug may look different._
+
 Mugs will be available _only_ for porch-side pickup at The Vic in SE Portland.
 Of course, if you don't want a mug, you're free to donate anyways.
 
