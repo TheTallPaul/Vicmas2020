@@ -51,6 +51,6 @@ To avoid fees associated with GoFundMe, we'll be using Venmo and Paypal.
 
 Be sure to include "City Team" or "Vicmas" in your message so we know that this is earmarked for donations instead of people randomly sending Isaac money.
 
-If you if you want a mug, put "Mug" in your message along with the name and phone number or email of the person who'll be picking it up.
+If you want a mug, put "Mug" in your message along with the name and phone number or email of the person who'll be picking it up.
 That way we'll be able to notify you when your mug is ready for pickup.
 If you want multiple mugs, donate the appropriate amount and include the number of mugs you'd like to pick up in your message.
