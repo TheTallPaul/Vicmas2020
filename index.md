@@ -5,14 +5,14 @@ _Click to watch our video_
 ## How we're doing 2020
 
 Traditionally, every December our house known as 'The Vic' hosts a large Christmas party known as 'Vicmas'.
-However that's obviously not possible this year (but stay tuned for Vicmas in July), so we've found a new to turn this year's Vicmas into a positive by hosting a fundraiser.
+However that's obviously not possible this year (but stay tuned for Vicmas in July), so we've found a new way to celebrate this year's Vicmas by hosting a fundraiser for an organization one of our residents is an executive director of—City Team.
 
 ## What is City Team?
 
 [City Team](cityteam.org) is an organization devoted to sharing the love of Jesus through meeting the needs of the local community.
-City Team provides housing and restorative programs for people struggling with homelessness and addiction, provides food for families dealing food insecurity, and education to help people find living-wage jobs.
+City Team provides housing and restorative programs for people struggling with homelessness and addiction, provides food for families dealing with food insecurity, and education programs to help people find living-wage jobs.
 
-Watch [our video](http://www.youtube.com/watch?v=TTpA8z9zwR8) to hear more about the good City Team is bringing to the world.
+Watch [our video](http://www.youtube.com/watch?v=TTpA8z9zwR8) to hear more about the good City Team is bringing to the world this season.
 
 ## The Fundraiser
 
@@ -23,28 +23,29 @@ Feel free to [donate directly to City Team](https://cityteam.org/donate/) instea
 ### Money Multiplier 💸
 
 We will have every $1 in proceeds matched by $2, up to $400 dollars.
-Coupled with a generous backer offering to double all City Team donations this month up to $250k, that means that every $1 in proceeds will equate to $5 in donations for the first $400!
+Coupled with a generous backer offering to double all City Team donations this month up to $250k, that means that every $1 in proceeds will effectively equate to $5 in donations for the first $400!
 
 ### Mugs ☕
 
 For every $10 you donate, we will give you a custom diner-style mug!
-Mug costs vary depending on order quantity, but will be aproximately $3.
-The remaining proceeds of your donation will be delivered to City Team.
+Mug costs vary depending on order quantity, but will be aproximately $3 per mug.
+The remaining proceeds of your donation will be delivered directly to City Team.
 
 ![Mug mockup](https://raw.githubusercontent.com/TheTallPaul/vicmas/main/mug.png)
 
 _Mockup of the mug. Final mug may look different._
 
-Mugs will be available _only_ for porch-side pickup at The Vic in SE Portland.
+Mugs will be available **only** for porch pickup at The Vic in SE Portland.
 Of course, if you don't want a mug or are unable to pick on up, you're free to donate anyways, just include "No mug" in your donation message.
 
 ### Donate
 
 To avoid fees associated with GoFundMe, we'll be using Venmo and Paypal.
 
-**Venmo:** @Isaac-Fulmer
+**Venmo:** @IsaacFulmer
 
-**Paypal:**
+**Paypal:** IsaacFulmer@Gmail.com
 
-Be sure to include "City Team" or "Vicmas" in your message so we know that this is earmarked for donations.
-Put "Mug" in your message along with the name and number of the person who'll be picking it up if you want a mug.
+Be sure to include "City Team" or "Vicmas" in your message so we know that this is earmarked for donations instead of people randomly sending Isaac money.
+If you if you want a mug, put "Mug" in your message along with the name and phone number or email of the person who'll be picking it up.
+If you want multiple mugs, donate the appropriate amount and include the number of mugs you'd like to pick up in your message.
