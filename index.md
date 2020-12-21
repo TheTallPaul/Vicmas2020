@@ -28,7 +28,7 @@ Coupled with a generous backer offering to match City Team donations this month 
 
 ### Mugs ☕
 
-For every $15 you donate, we will happily provide you with a custom diner-style mug!
+For every $20 you donate, we will happily provide you with a custom diner-style mug!
 Mug costs vary depending on order quantity, but will be roughly $3 per mug.
 The remaining proceeds of your donation will be delivered directly to City Team.
 
